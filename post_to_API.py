@@ -2,7 +2,7 @@ import requests
 import json
 
 #url = "enter heroku web app url here"
-url = "https://udacity-fastapi-app.herokuapp.com/inference"
+url = "https://machine-learning-model-app-90b987bea501.herokuapp.com/inference"
 
 
 # explicit the sample to perform inference on
